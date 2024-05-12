@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS:
+## REG NO:212223230121
+## NAME:MANIKUMAR.DK
 ## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -43,7 +45,11 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP:
-![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/bd45adfb-661f-4e6e-a9df-b8456f6e49c7)
+## CLIENT:
+![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/c44041f2-1c5d-41f2-bc9e-8762fcfc0d1e)
+
+## SERVER:
+![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/ad9bf47e-ca2c-436b-bd3a-38c00dda9967)
 
 ## PROGRAM - RARP:
 ## CLIENT:
@@ -73,7 +79,11 @@ while True:
 ```
 
 ## OUPUT -RARP:
-![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/ae808fde-f16d-4480-83e9-c6e5427ca56c)
+## CLIENT:
+![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/25550fd5-b125-4d3e-8b74-214a179f05af)
+
+## SERVER:
+![image](https://github.com/MANIKUMARDK/2c.ARP_RARP_PROTOCOLS/assets/147215581/ca9b40ed-146e-45c6-90ef-36df2cca6636)
 
 ## RESULT:
 Thus, the python program for simulating ARP protocols using TCP was successfully 
